@@ -1,5 +1,5 @@
 # Hola-Mundo
 
-Mi primer repositorio GitHub
+Mi primer repositorio Github
 
-I love :cat:, :tv:, :computer:
+I love :cat:, :tv:, :computer:, :book:
